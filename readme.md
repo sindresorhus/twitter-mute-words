@@ -98,6 +98,51 @@ snapchat
 stock market
 ```
 
+## Automated Entry via Hacky JavaScript
+
+There doesn't appear to be an official API for adding a list of muted keywords, so the following JavaScript can be ran on the [muted keywords page](https://twitter.com/settings/muted_keywords).
+
+```javascript
+// Replace with your list...
+var itemList = [
+  'foo',
+  'bar',
+  'baz'
+];
+
+var iterator = 0;
+
+var interval = setInterval(function() {
+  if (itemList.length === iterator) {
+    alert('done!');
+    clearInterval(interval);
+  } else {
+    openDialog();
+    setTimeout(function() {
+      enterText(itemList[iterator]);
+      iterator++;
+      setTimeout(function() {
+        pressAdd();
+      }, 1000);
+    }, 2000);
+  }
+}, 4000); // Extra second is padded on to give the UI
+          // a chance to close down the modal.
+
+
+function openDialog() {
+  jQuery('.MutedKeywordsActions-openDialogButton').click()
+}
+
+function enterText(text) {
+  jQuery('.MutedKeywordsAddItemForm-row > div div').focus();
+  jQuery('.MutedKeywordsAddItemForm-row > div div').text(text);
+}
+
+function pressAdd() {
+  jQuery('.MutedKeywordsAddItemForm-button').click();
+}
+```
 
 ## License
 
