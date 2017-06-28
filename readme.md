@@ -93,6 +93,8 @@ soccer
 
 ```
 fake news
+#flatearth 
+flat earth 
 kardashian
 snapchat
 stock market
