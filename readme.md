@@ -35,7 +35,8 @@ election
 fbi
 federal agencies
 federal agency
-feminis
+feminism
+feminist
 government
 governments
 handcuffs
