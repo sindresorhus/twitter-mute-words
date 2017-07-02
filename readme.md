@@ -35,6 +35,7 @@ election
 fbi
 federal agencies
 federal agency
+feminis
 government
 governments
 handcuffs
@@ -54,6 +55,7 @@ politician
 politicians
 politics
 president
+pride
 protest
 protesting
 protestor
@@ -85,6 +87,7 @@ white house
 
 ```
 football
+overwatch
 soccer
 ```
 
@@ -92,12 +95,15 @@ soccer
 ## Other
 
 ```
+cat
+dog
 fake news
-#flatearth 
-flat earth 
+#flatearth
+flat earth
 kardashian
 snapchat
 stock market
+untappd
 ```
 
 
