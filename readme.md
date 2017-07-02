@@ -75,6 +75,7 @@ tax dollars
 taxes
 terrorist
 terrorists
+terrorism
 trump
 war
 white house
@@ -86,6 +87,7 @@ white house
 ```
 football
 soccer
+NFL
 ```
 
 
@@ -98,6 +100,34 @@ flat earth
 kardashian
 snapchat
 stock market
+```
+
+## Tumblr
+```
+gender
+non-binary
+harrassment
+harrassed
+sexist
+sexism
+misandry
+misogynist
+misogynistic
+feminist
+feminazi
+cis
+cisgender
+neurotypical
+straight
+white male
+non-white
+patriarchy
+mansplain
+oppression
+oppressed
+wage gap
+body-shaming
+victimize
 ```
 
 
