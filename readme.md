@@ -50,6 +50,7 @@ legislation
 nazi
 nazis
 obama
+parliament
 pentagon
 political
 politician
