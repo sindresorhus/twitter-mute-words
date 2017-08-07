@@ -106,6 +106,8 @@ overwatch
 snapchat
 stock market
 untappd
+uber
+samsung
 ```
 
 
