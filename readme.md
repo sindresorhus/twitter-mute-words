@@ -75,6 +75,8 @@ senators
 sjw
 steve bannon
 supreme court
+supremacy
+supremacist
 tax dollars
 taxes
 terrorist
