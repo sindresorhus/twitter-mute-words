@@ -81,6 +81,7 @@ tax dollars
 taxes
 terrorist
 terrorists
+terrorism
 trump
 war
 white house
@@ -92,6 +93,7 @@ white house
 ```
 football
 soccer
+NFL
 ```
 
 
@@ -110,6 +112,34 @@ stock market
 untappd
 uber
 samsung
+```
+
+## Tumblr
+```
+gender
+non-binary
+harrassment
+harrassed
+sexist
+sexism
+misandry
+misogynist
+misogynistic
+feminist
+feminazi
+cis
+cisgender
+neurotypical
+straight
+white male
+non-white
+patriarchy
+mansplain
+oppression
+oppressed
+wage gap
+body-shaming
+victimize
 ```
 
 
