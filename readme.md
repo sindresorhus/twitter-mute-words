@@ -90,8 +90,15 @@ white house
 ## Sports
 
 ```
+boxing
 football
+golf
+hockey
+rugby
 soccer
+swimming
+tennis
+wrestling
 ```
 
 
