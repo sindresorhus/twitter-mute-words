@@ -117,6 +117,10 @@ stock market
 untappd
 uber
 samsung
+violence
+scary movie
+ghost
+horror
 ```
 
 
